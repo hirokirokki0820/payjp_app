@@ -18,6 +18,9 @@ gem 'payjp'
 # 環境変数を定義
 gem 'dotenv-rails'
 
+# Devise
+gem 'devise'
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
